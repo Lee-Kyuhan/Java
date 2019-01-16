@@ -1,3 +1,3 @@
-# Java
+# Hansol java Man
 
-Javaa 빡공 프로젝트!! 
+Javaa and development 
