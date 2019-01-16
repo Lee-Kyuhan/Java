@@ -1,3 +1,3 @@
 # Hansol java Man
 
-Javaa and development 
+Java and development 
