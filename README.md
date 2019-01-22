@@ -2,4 +2,4 @@
 
 Java and development 
 
-![image](./img/test.png)
+![image](https://github.com/Lee-Kyuhan/Java/blob/master/img/test.PNG)
