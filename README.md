@@ -1,4 +1,4 @@
-# Hansol java Man
+# java studing git
 
 Java and development 
 
